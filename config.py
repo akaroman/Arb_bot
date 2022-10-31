@@ -7,7 +7,7 @@ bsc = 'https://chaotic-empty-frost.bsc.discover.quiknode.pro/48d25fdd6794909e623
 
 vholder_address = '0x482aD98f58325D4a62545780Eb3F4b5bb0456513'
 
-private = "ff29b5ee7c5e4c80a666d9eae9f9b70b6cc9c8ed4e9cf8e50874b8b000378b22"
+private = ""
 
 
 gas = '6'
